@@ -5,8 +5,8 @@
 // @icon        https://cdn.overtrack.gg/static/images/favicon.png
 // @version     1.0.2
 // @namespace   https://github.com/elementofprgress
-// @updateURL   https://raw.githubusercontent.com/elementofprgress/OvertrackApexAvgRP/master/downloads/Overtrack_Apex_Avg_RP-meta.js
-// @downloadURL https://raw.githubusercontent.com/elementofprgress/OvertrackApexAvgRP/master/downloads/Overtrack_Apex_Avg_RP.js
+// @updateURL   https://github.com/elementofprgress/OvertrackApexAvgRP/releases/download/master/Overtrack_Apex_Avg_RP-meta.js
+// @downloadURL https://github.com/elementofprgress/OvertrackApexAvgRP/releases/download/master/Overtrack_Apex_Avg_RP.js
 // @match       *overtrack.gg/apex/games?season=*&ranked=true*
 // @connect     *
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
